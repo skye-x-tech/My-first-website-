@@ -38,7 +38,7 @@ To everyone who cheered me on while I learned — especially those who pretended
 - **X:** [@CodeMatrix_X](https://x.com/CodeMatrix_X?t=a04Y2Tgk8ZhuxIeupIdK_w&s=09)  
 - **Facebook:** [My Facebook Page](https://www.facebook.com/share/1M2hWs54EF/)  
 - **GitHub:** [CodeMatrix-X/CodeMatrix-X](https://github.com/CodeMatrix-X/CodeMatrix-X)  
-- **Email:** [neocodematrix@gmail.co](mailto:neocodematrix@gmail.com)
+- **Email:** [neocodematrix@gmail.com](mailto:neocodematrix@gmail.com)
 
 ---
 
