@@ -5,7 +5,7 @@ Welcome to the official frontend of **Hopecare Hospital** — a simple, responsi
 This is my first frontend project, built with passion, practice, and persistence 💪. There might be a few rough edges (aka bugs 😅), but it's a big step forward!
 
 ## 🌐 Live Demo
-👉 [View the website here]https://codematrix-x.github.io/My-first-website-/login.html
+👉 [View the website here]https://skye-x-1.github.io/My-first-website-/login.html
 
 ## 🛠️ Built With
 - HTML
@@ -30,15 +30,6 @@ This is my first frontend project, built with passion, practice, and persistence
 
 ## 🙏 Special Thanks
 To everyone who cheered me on while I learned — especially those who pretended the bugs were “cool effects” 😂
-
----
-
-## 📱 Connect with me
-
-- **X:** [@CodeMatrix_X](https://x.com/CodeMatrix_X?t=a04Y2Tgk8ZhuxIeupIdK_w&s=09)  
-- **Facebook:** [My Facebook Page](https://www.facebook.com/share/1M2hWs54EF/)  
-- **GitHub:** [CodeMatrix-X/CodeMatrix-X](https://github.com/CodeMatrix-X/CodeMatrix-X)  
-- **Email:** [neocodematrix@gmail.com](mailto:neocodematrix@gmail.com)
 
 ---
 
