@@ -5,7 +5,7 @@ Welcome to the official frontend of **Hopecare Hospital** — a simple, responsi
 This is my first frontend project, built with passion, practice, and persistence 💪. There might be a few rough edges (aka bugs 😅), but it's a big step forward!
 
 ## 🌐 Live Demo
-👉 [View the website here]https://skye-x-1.github.io/My-first-website-/login.html
+👉 [View the website here]https://skye-x-tech.github.io/My-first-website-/login.html
 
 ## 🛠️ Built With
 - HTML
